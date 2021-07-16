@@ -26,18 +26,16 @@
     border-color: #1b6d85;
     margin-left: 31px;
     font-size: 14px;
-    /* font-weight: bold; */
     width: 148px;
     height: 32px;
     margin-left: 65px;
     border-radius: 5px;
+    cursor: pointer;
+    outline: none;
 }
 .p{
     margin-left: 88px;
     padding: 3.5px;
-
-    /* border: 1px solid #bce8f1; */
-    /* box-sizing: border-box; */
     
 }
 .customerdetails {
@@ -47,9 +45,11 @@
     text-align: center;
     margin-top: -45%;
     justify-content: center;
-    width: 50%;
+    width: 47%;
     border: 1px solid #bce8f1;
     border-radius: 5px;
+    margin-left: 385px;
+   
   }
  .pName{
     margin-top: 0px;
@@ -64,8 +64,5 @@
     width: 22%;
     margin-left: 5px;
     box-sizing: border-box;
+  }
  
-  }
-  body{
-      background-color: violet;
-  }
